@@ -14,6 +14,6 @@ dependencies:
   - torchvision
   - pip:
     - azure-cli==2.0.44
-    - azureml-sdk[notebooks, automl]==1.0.21
+    - azureml-sdk[notebooks, automl]==1.0.33
     - papermill==0.14.2
     - prompt_toolkit==2.0.7
